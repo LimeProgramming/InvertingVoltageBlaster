@@ -1,0 +1,71 @@
+16583259732234
+Inverting voltage blaster
+CH340N
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Inverting voltage blaster
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+Inverting voltage blaster
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+Inverting voltage blaster
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Inverting voltage blaster
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Inverting voltage blaster
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Inverting voltage blaster
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Inverting voltage blaster
+ISA_8BIT_EDGE
+
+
+0
+62
+62
+Inverting voltage blaster
+L_12x12mm_H4.5mm
+Choke, SMD, 12x12mm 4.5mm height
+Choke SMD
+0
+2
+2
+Inverting voltage blaster
+SOT-89-3_Handsoldering
+SOT-89-3 Handsoldering
+SOT-89-3 Handsoldering
+0
+3
+3
